@@ -1,4 +1,4 @@
-.rectangle1,
+.rectangles1,
 .rectangle2,
 .rectangle3,
 .rectangle4,
@@ -16,7 +16,7 @@
   position: absolute;
   border-radius: 5px;
 }
-.rectangle1,
+.rectangles1,
 .rectangle4 {
   width: 684px;
   height: 210px;
